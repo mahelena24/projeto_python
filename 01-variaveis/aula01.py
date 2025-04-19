@@ -27,4 +27,4 @@ salario = int(input("Digite o seu salário:"))
 bonus = float(input("Digite a porcentagem do bônus que vocÊ recebeu:"))
 
 kpi = 1000+(salario*bonus)
-print("O seu bÔnus será de", kpi, "reais.")
+print(nome, "o seu bÔnus será de", kpi, "reais.")
